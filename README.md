@@ -1,6 +1,6 @@
 # EcomBackend + SpringBoot
 
-A backend REST API for an e-commerce application built using **Java, Spring Boot, Spring Data JPA, and H2 Database**. The application provides product management functionality, including CRUD operations, product image uploads, and keyword-based product search.
+A backend REST API for an e-commerce application built using **Java, Spring MVC, Spring Boot, Spring Data JPA, and H2 Database**. The application provides product management functionality, including CRUD operations, product image uploads, and keyword-based product search.
 
 ## 🚀 Features
 
